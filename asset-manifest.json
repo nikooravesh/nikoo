@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/nikoo/static/js/main.1665589b.js",
+    "static/media/Teams.svg": "/nikoo/static/media/Teams.edd3df9f145ecfbada47fe88f964578b.svg",
+    "static/media/Slack.svg": "/nikoo/static/media/Slack.6f01bc84d40762b2fb5fc06b337d0a1a.svg",
+    "static/media/Skype.svg": "/nikoo/static/media/Skype.bb5d614311d88138fc49231f7426e52b.svg",
+    "static/media/Discord.svg": "/nikoo/static/media/Discord.d53b18f7b11eb1c18e7831032f313a12.svg",
+    "index.html": "/nikoo/index.html",
+    "static/media/Gmail.svg": "/nikoo/static/media/Gmail.064eff0894a8e932446cfc3188335be6.svg",
+    "main.1665589b.js.map": "/nikoo/static/js/main.1665589b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1665589b.js"
+  ]
+}
